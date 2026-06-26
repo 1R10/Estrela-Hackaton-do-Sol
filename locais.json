@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "Praia de Ponta Negra",
+        "endereco": "Av. Erivan França, S/N - Ponta Negra, Natal - RN",
+        "coordenadas": [-5.8797, -35.1764],
+        "horario": "Aberto 24 horas",
+        "avaliacao": "4.8",
+        "tipo": "Praia",
+        "recompensa": "Check-in: 150 Pontos ESTRELA",
+        "pontosNum": 150
+    },
+    {
+        "nome": "Arena das Dunas",
+        "endereco": "Av. Prudente de Morais, 5121 - Lagoa Nova, Natal - RN",
+        "coordenadas": [-5.8267, -35.2124],
+        "horario": "08:00 - 18:00 (Dias sem jogo)",
+        "avaliacao": "4.7",
+        "tipo": "Monumento Turístico / Eventos",
+        "recompensa": "Check-in: 100 Pontos ESTRELA",
+        "pontosNum": 100
+    },
+    {
+        "nome": "Restaurante Camarões",
+        "endereco": "Av. Engenheiro Roberto Freire, 3980 - Ponta Negra, Natal - RN",
+        "coordenadas": [-5.8752, -35.1770],
+        "horario": "11:30 - 15:30, 18:30 - 23:30",
+        "avaliacao": "4.9",
+        "tipo": "Restaurante",
+        "recompensa": "Avaliação: 200 Pontos ESTRELA",
+        "pontosNum": 200
+    },
+    {
+        "nome": "Forte dos Reis Magos",
+        "endereco": "Praia do Forte, S/N - Santos Reis, Natal - RN",
+        "coordenadas": [-5.7565, -35.1946],
+        "horario": "08:00 - 16:00",
+        "avaliacao": "4.6",
+        "tipo": "Monumento Turístico",
+        "recompensa": "Check-in: 50 Pontos ESTRELA",
+        "pontosNum": 50
+    }
+]   
