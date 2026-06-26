@@ -1,0 +1,38 @@
+.auth-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg);
+}
+
+.auth-card {
+    background: var(--bg2);
+    padding: 40px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    width: 100%;
+    max-width: 450px;
+}
+
+.auth-card input {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    padding: 12px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    color: var(--text);
+    box-sizing: border-box;
+}
+
+.auth-card input:focus {
+    border-color: var(--cyan);
+    outline: none;
+}
+
+.form-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
